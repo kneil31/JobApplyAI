@@ -1,0 +1,6 @@
+openai
+langchain
+selenium
+beautifulsoup4
+pymongo
+streamlit
